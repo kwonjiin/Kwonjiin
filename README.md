@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+간단한 자기소개
+
+
+
 <!--
 **kwonjiin/Kwonjiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

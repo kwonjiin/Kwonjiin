@@ -8,7 +8,7 @@ Java & Spring Boot 기반의 웹 애플리케이션을 주로 개발하며, Reac
 ### 🔧 주요 기술 스택
 - **Backend**: Java, Spring Boot, JPA, Spring Security, JWT, Redis
 - **Frontend**: React, TypeScript, Vite, Tailwind CSS
-- **DevOps & Infra**: AWS (EC2, S3, CloudFront, CodeDeploy, ACM), GitHub Actions, Nginx, k8s, Docker, ArgoCD
+- **DevOps & Infra**: AWS (EC2, S3, CloudFront, CodeDeploy, ACM), GitHub Actions, Nginx, k8s, Docker, Jenkins, ArgoCD
 - **Database**: MySQL, MariaDB, Redis
 - **Collaboration**: Git, GitHub, Notion, Figma
 

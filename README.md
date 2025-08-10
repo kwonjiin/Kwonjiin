@@ -19,7 +19,7 @@
 - 클린 아키텍처와 DDD, 테스트 코드 작성
 - 오픈소스 참여 및 기술 블로그 운영
 
-    
+    <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -34,7 +34,7 @@
 
 - **Collaboration**: <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white">
           </div>
-    </div>
+    </div> </br>
 
     
     <div align= "center">
@@ -46,7 +46,7 @@
 - **GitHub**: [@kwonjiin](https://github.com/kwonjiin)
 
   
-    </div>
+    </div></br>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Kwonjiin&bg_color=60,ffe0f5,feea86&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonjiin&layout=compact&bg_color=60,ffe0f5,feea86&title_color=000000&text_color=000000"

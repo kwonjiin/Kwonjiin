@@ -52,5 +52,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwonjiin&layout=compact&bg_color=60,ffe0f5,feea86&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-
-    

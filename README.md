@@ -40,6 +40,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     
+    
 ### 📬 연락처
 - **Blog**: [지민의 개발 블로그](https://secretdiary-by-princessjimin.tistory.com/)
 - **Email**: jimin001006@naver.com

@@ -57,7 +57,6 @@
 </div>
 
 
-
   <div align= "center">
     <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:f7b6df,100:fff109&height=180&animation=twinkling" />
     </div>
